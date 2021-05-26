@@ -1,0 +1,23 @@
+commit 65a2d9946f193ba39fe7e82672c246c36e1f7e78
+Author: JennKnapp <jennifer.knapp11@gmail.com>
+Date:   Wed May 26 12:09:05 2021 -0400
+
+    added file4 to gitignore
+
+commit b9a70ccecb3cdf939a4c5a97b973549468af676c
+Author: JennKnapp <jennifer.knapp11@gmail.com>
+Date:   Wed May 26 11:53:45 2021 -0400
+
+    added gitignore
+
+commit cc17f08702171f6485e00202c1a12282fc3c0781
+Author: JennKnapp <jennifer.knapp11@gmail.com>
+Date:   Tue May 25 15:39:45 2021 -0400
+
+    added two files
+
+commit c3141b3cba7719c24d872e843c4a76b7a89dfb0e
+Author: JennKnapp <jennifer.knapp11@gmail.com>
+Date:   Tue May 25 15:27:32 2021 -0400
+
+    added readme.txt
