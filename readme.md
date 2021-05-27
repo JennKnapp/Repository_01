@@ -5,7 +5,7 @@
 
 Our lab webpage is [here](http://llama.mshri.on.ca/).
 
-!Our Lab](http://llama.mshri.on.ca/images/Rothlab_photo_2020_11_09_DK.png)
+![Our Lab](http://llama.mshri.on.ca/images/Rothlab_photo_2020_11_09_DK.png)
 
 
 ### Contact
