@@ -1,30 +1,13 @@
-# This is a large heading
+# Jenn Knapp
 
-## This is a smaller heading
+### Lab Coordinator in Dr. Fritz Roth's Lab at the University of Toronto
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
 
-- This is
-- an unordered
-- list
+Our lab webpage is [here](http://llama.mshri.on.ca/).
 
-1. This is
-2. an ordered
-3. list
+![Our Lab](http://llama.mshri.on.ca/images/Rothlab_photo_2020_11_09_DK.png)
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](http://llama.mshri.on.ca/).
-
-![This is an image.](http://llama.mshri.on.ca/images/Rothlab_photo_2020_11_09_DK.png)
-
-nano README.md
+The best way to get in touch with me is through [e-mail](mail to:jennfier.knapp11@gmail.com).
