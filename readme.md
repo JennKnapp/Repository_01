@@ -23,8 +23,8 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](http://llama.mshri.on.ca/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](http://llama.mshri.on.ca/images/Rothlab_photo_2020_11_09_DK.png)
 
 nano README.md
