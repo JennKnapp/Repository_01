@@ -10,4 +10,4 @@ Our lab webpage is [here](http://llama.mshri.on.ca/).
 
 ### Contact
 
-The best way to get in touch with me is through <a href="mail to:jennifer.knapp11@gmail.com">e-mail</a>.
+The best way to get in touch with me is through [e-mail](<jennifer.knapp11@gmail.com>).
